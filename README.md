@@ -4,6 +4,7 @@
 
 Just like regular create-react-app but so much more. This boilerplate includes some plus main dependencies:
 
+```
 - axios;
 - node-sass;
 - redux;
@@ -11,10 +12,15 @@ Just like regular create-react-app but so much more. This boilerplate includes s
 - react-router-dom;
 - eslint-plugin-import-helpers;
 - babel-plugin-root-import.
+```
 
 ## Usage
 
-Clone this repository, yarn install then yarn start.
+```bash
+1. clone this repository
+2. yarn install
+2. yarn start
+```
 
 ## Contributing
 
