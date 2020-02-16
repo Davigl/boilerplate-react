@@ -16,11 +16,10 @@ Just like regular create-react-app but so much more. This boilerplate includes s
 
 ## Usage
 
-```bash
-1. clone this repository
-2. yarn install
-2. yarn start
-```
+1. Clone this repository;
+2. yarn install;
+3. Remove .gitkeep files;
+4. Start programming :).
 
 ## Contributing
 
@@ -30,7 +29,7 @@ Just like regular create-react-app but so much more. This boilerplate includes s
 4. Push to the branch: git push origin my-new-feature;
 5. Submit a pull request :D.
 
-## Source
+## Folders Structure
 
 <div>
 
