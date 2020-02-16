@@ -4,15 +4,13 @@
 
 Just like regular create-react-app but so much more. This boilerplate includes some plus main dependencies:
 
-```
-- axios;
-- node-sass;
-- redux;
-- react-redux;
-- react-router-dom;
-- eslint-plugin-import-helpers;
-- babel-plugin-root-import.
-```
+* axios;
+* node-sass;
+* redux;
+* react-redux;
+* react-router-dom;
+* eslint-plugin-import-helpers;
+* babel-plugin-root-import.
 
 ## Usage
 
