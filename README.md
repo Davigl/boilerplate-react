@@ -1,4 +1,4 @@
-# Welcome to my Custom Template
+# My React Boilerplate
 
 ## Overview
 
@@ -17,7 +17,7 @@ Just like regular create-react-app but so much more. This boilerplate includes s
 
 1. Clone this repository
 2. yarn install
-3. Remove .gitkeep files
+3. Remove .gitkeep files if you want
 4. Start programming :)
 
 ## Contributing
