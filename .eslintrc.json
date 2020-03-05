@@ -48,6 +48,7 @@
     "comma-dangle": "off",
     "prefer-const": "off",
     "no-eval": "off",
+    "react/no-unescaped-entities": "off",
     "no-console": [
       "error",
       {
