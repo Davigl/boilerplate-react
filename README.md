@@ -1,6 +1,6 @@
-# My React Boilerplate
+<h1>React Boilerplate</h1>
 
-## Overview
+## :rocket: Technologies
 
 Just like regular create-react-app but so much more. This boilerplate includes some plus main dependencies:
 
@@ -13,14 +13,14 @@ Just like regular create-react-app but so much more. This boilerplate includes s
 * eslint-plugin-import-helpers
 * babel-plugin-root-import
 
-## Usage
+## :information_source: Usage
 
 1. Clone this repository
 2. yarn install
 3. Remove readme content and .gitkeep files
 4. Start programming :)
 
-## Contributing
+## 💁🏻 Contributing
 
 1. Fork it
 2. Create your feature branch: git checkout -b my-new-feature
@@ -28,7 +28,7 @@ Just like regular create-react-app but so much more. This boilerplate includes s
 4. Push to the branch: git push origin my-new-feature
 5. Submit a pull request :D
 
-## Folders Structure
+## 📁 Folders Structure
 
 <div>
 
