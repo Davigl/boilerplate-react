@@ -37,6 +37,7 @@ Just like regular create-react-app but so much more. This boilerplate includes s
       ├── fonts
       ├── styles
       ├── images
+      ├── audios
     ├── components
     ├── containers
     ├── mocks
