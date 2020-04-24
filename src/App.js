@@ -7,7 +7,7 @@ import Routes from '~/routes';
 
 function App() {
   useEffect(() => {
-    document.title = 'Drum Machine';
+    document.title = '';
   }, []);
 
   return (
